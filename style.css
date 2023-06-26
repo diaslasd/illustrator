@@ -12,8 +12,7 @@ html {
 
 iframe {
     border: 0;
-    min-height: calc(100vh);
-    max-width: 100%;
-    box-sizing: border-box;
+    height: 100%;
+    /* box-sizing: border-box; */
 }
 
